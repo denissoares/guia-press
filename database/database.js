@@ -1,5 +1,5 @@
 const Sequelize = require('sequelize');
-const connection = new Sequelize('guiapress', 'root', '1013726', {
+const connection = new Sequelize('guiapress', 'root', '000000', {
   host: 'localhost',
   dialect: 'mysql',
   timezone: '-03:00',
